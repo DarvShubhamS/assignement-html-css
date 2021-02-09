@@ -218,6 +218,22 @@ SYNTAX: `<article></article>`
 
 SYNTAX: `<footer></footer>`
 
+## Q11. Create HTML for web-page.jpg 
+
+**Files Links:-** https://github.com/DarvShubhamS/assignement-html-css/tree/main/question11
+
+- Screenshots 
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/question11/ss1.JPG" />
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/question11/ss2.JPG" />
+
+## Q12. Create HTML for form.png
+
+**Files Links:-** https://github.com/DarvShubhamS/assignement-html-css/tree/main/question12
+
+- Screenshots
+
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/question12/ss.JPG" />
+
 
 
 

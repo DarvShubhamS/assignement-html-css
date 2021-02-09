@@ -15,15 +15,33 @@ Main Difference between inline and block elements is that
 
 •	Some examples are div, section, header, footer tags.
 
+- #### changing display property of div and span to check difference
 
+#### Screenshot
+
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/screenshots/ss1.JPG" />
 
 ## Q2.Explain the difference between visibility:hidden and display:none
+
+Both Are Used To hide contents but ,
 
 Main Difference between two is that in,
 
 •	**visibility set to hidden**, it will affect the document flow. Space will be allocated to that particular element between different elements.
 
 •	**And in Display set to none**, it will not affect the document flow. no space will be allocated to it in the document flow.
+
+#### Setting Above properties To Know Differences
+
+#### Screenshot
+
+- Visiblity Hidden
+
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/screenshots/ss2.jpg" />
+
+- Display None
+
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/screenshots/ss3.jpg" />
 
 ## Q3.Explain the clear and float properties
 
@@ -52,6 +70,14 @@ syntax: `div {
 clear:left
 }`
 
+- setting these properties and checking
+
+#### screenshot
+
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/screenshots/ss4.JPG" />
+
+
+
 ## Q4.explain difference between absolute, relative,fixed and static.
 
 - Static: - It is the default property set. Elements appear in their normal flow as they are written in html document.
@@ -61,6 +87,12 @@ clear:left
 - Absolute: - by setting display property to absolute than the positioning of element will be relative to its first parent element. According to its parent elements it will change the positioning
 
 - Fixed: - by setting the display property to fix, it will be fixed to a particular position. Fixed elements are relative to browser window. 
+
+#### Setting these properties and checking
+
+#### screenshots
+
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/screenshots/ss5.JPG" />
 
 ##  Q5.Write the HTML code to create a table in which there are 4 columns( ID , Employee Name, Designation, Department) and at least 6 rows. Also do some styling to it.
 
@@ -114,6 +146,10 @@ clear:left
             </tr>
 
         </table>
+        
+ #### screenshot
+ 
+ <img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/screenshots/ss6.JPG" />
         
  ## Q6. Why do we use meta tags?
  

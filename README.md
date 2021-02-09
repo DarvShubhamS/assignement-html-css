@@ -183,6 +183,8 @@ Every element in a html is a box. We can consider all html elements as boxes.
 
 Keeping Box Model In Mind we apply styling to our html pages.
 
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/screenshots/box_model.JPG" />
+
 ## Q8.What are the different types of CSS Selectors? 
 
 CSS selectors are mainly used to find a particular html element. after selecting that particular html element, we can now apply different styles to it.
@@ -238,9 +240,14 @@ if dont specify many features of html 5 will not work correctly.
 
 SYNTAX: `<header></header>`
 
+
 2.	**Nav**: - nav is basically used as a container for our navigation links. all the navigation links are specified in the nav tag.
 
 SYNTAX: `<nav></nav>`
+
+- code sample ss header and nav
+
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/screenshots/header.JPG" />
 
 3.	**Section**: - section tag is used for dividing our page into different sections.it basically defines different sections of our page.
 
@@ -250,9 +257,18 @@ SYNTAX: `<section></section>`
 
 SYNTAX: `<article></article>`
 
+- code sample ss for section and article
+
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/screenshots/sec_article.JPG" />
+
 5.	**Footer**: - as the name suggest it is basically used to define a footer for our html document. it can contain information like copyright info, related links, contact information etc.
 
 SYNTAX: `<footer></footer>`
+
+- code sample ss for footer
+
+<img src="https://github.com/DarvShubhamS/assignement-html-css/blob/main/screenshots/footer.JPG" />
+
 
 ## Q11. Create HTML for web-page.jpg 
 

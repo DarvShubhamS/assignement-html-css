@@ -1,0 +1,187 @@
+.form_header {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+    color: #17A689;
+    width: 80%;
+    margin: 0 auto;
+    padding-bottom: 15px;
+}
+
+.form_header h1 {
+  margin: 0;
+  
+ 
+}
+
+nav {
+    margin-top: 8px;
+}
+
+nav a {
+    margin-right: 4px;
+    text-decoration: none;
+    color: #17A689;
+    font-weight: bold;
+   
+}
+
+hr {
+    margin: 0 auto;
+    width: 80%;
+}
+
+.form_main {
+margin-top: 20px;
+
+}
+
+
+
+.bug_form {
+    margin: 0 auto;
+    width: 450px;
+    border: 2px solid #BEC4C8;
+    border-radius: 5px;
+    
+    
+  
+   
+}
+
+
+.bug_form h2 {
+    background-color:#BEC4C8 ;
+    margin: 0;
+    padding:18px;
+    color: white;
+}
+
+
+
+
+.bug_form_cntnt {
+ 
+    margin:0 auto;
+    padding: 15px;
+    margin-right: 10px;
+    
+   
+   
+   
+}
+
+
+
+
+
+.bug_form_cntnt input {
+
+    border:2px solid #BEC4C8;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 4px;
+    padding: 3px;
+   
+    
+}
+
+
+.bug_form_cntnt select {
+    width: 100%;
+    background-color: #1ABC9C;
+    border:1px solid #1ABC9C;
+    border-radius: 5px;
+    color: white;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    padding: 4px;
+
+
+}
+
+
+
+
+
+
+#Description {
+    border:2px solid #BEC4C8;
+    border-radius: 5px;
+    width: 100%;
+    margin-bottom: 10px;
+
+}
+
+
+
+#Version {
+    margin-top: 4px;
+    width: 20%;
+    padding: 4px;
+    
+}
+
+
+
+
+.radio {
+    display: inline-flex;
+    margin-bottom: 10px;
+  
+   
+
+}
+
+.radio input {
+    
+min-width: 30px;
+height: 16px;
+margin: 0 10px 0 0;
+}
+
+
+input::-webkit-file-upload-button {
+    color: white;
+    background-color: #BEC4C8;
+    border: 4px solid #BEC4C8;
+    font-weight: bold;
+    padding: 4px;
+    margin: 0px;
+    float: right;
+    position: relative;
+  
+    
+   
+}
+
+#Attachments {
+    padding: 0px 0px 0px 5px;
+    margin-top: 5px;
+    
+    
+    
+    
+
+}
+
+.bttn {
+    background-color:#EDEFF1 ;
+   border-top: 1px solid #BEC4C8;
+    height: 60px;
+}
+
+#sbmt_bttn {
+    margin-top: 15px;
+    margin-right: 15px;
+    float: right;
+    background-color: #1ABC9C;
+    padding: 8px;
+    border:1px solid #1ABC9C;
+    border-radius: 10px;
+    color: white;
+    font-weight: bold;
+
+}
+
+

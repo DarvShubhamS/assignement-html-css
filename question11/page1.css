@@ -1,0 +1,167 @@
+* {
+    margin:0;
+}
+
+.main_div {
+    background-color: #323232;
+    color:white;
+    
+    
+   
+    
+}
+
+.main_div_conetnts {
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.main_header {
+    background-color: #323232;
+    border:1px solid gray;
+    border-top: none;
+
+}
+
+header {
+
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 70px;
+    padding-right: 70px;
+    width: 960px;
+    margin: 0 auto;
+   
+    
+   
+}
+
+nav {
+    background-color: black;
+    padding: 20px;
+
+}
+
+nav a {
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+  
+    
+}
+
+
+main {
+  background-color: white;
+  
+
+   
+}
+
+
+.jumbotron {
+
+    height: 360px;
+    width: 960px;
+    background-color: #323232;
+    text-align: center;
+    margin: 0 auto;
+   
+   
+   
+
+}
+
+.jumbotron p{
+
+    padding-top: 15%;
+   
+   
+
+}
+
+
+.top_cntnt {
+    padding-top:15px;
+}
+
+.top_cntnt p {
+
+    background-color: #EDEDED;
+    color:gray;
+    width: 960px;
+    margin:0 auto;
+    box-sizing: border-box;
+    padding: 15px;
+}
+
+
+#heading_cards {
+
+    color: gray;
+    width: 960px;
+    margin:0 auto;
+
+    
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    width: 960px;
+    margin:0 auto;
+    padding-bottom: 40px;
+  
+   
+   
+
+ }
+ .main_card {
+     border:1px solid gray
+ }
+ .main_card h6 {
+     color: gray;
+     text-align: center;
+     background-color: #EDEDED;
+     padding: 5px;
+     width: 200px;
+     margin:0 auto;
+     margin-bottom: 3px;
+ }
+
+ hr {
+    margin: 0 auto;
+    width: 960px;
+    
+ }
+
+ .card {
+    height: 315px;
+    width: 215px;
+    text-align: center;
+    background-color: #323232;
+    
+    
+ }
+
+ .card p {
+    padding-top: 60%;
+    
+ }
+
+ .main_footer {
+    background-color: black;
+ }
+
+
+ footer {
+    margin: 0 auto;
+    width: 960px;
+    padding:20px
+ }
+
+
+ #f_right {
+     float:right;
+ }

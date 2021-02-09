@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+    <title>TTN ASSIGNEMENT FORM</title>
+    <link rel="stylesheet" href="form.css">
+
+</head>
+
+<body>
+
+    <header class="form_header">
+        <h1>TO THE NEW</h1>
+        <nav>
+            <a href="/">Home</a>
+            <a href="/help">Quick Help</a>
+
+        </nav>
+    </header>
+    <hr />
+
+
+    <main class="form_main">
+        <form class="bug_form">
+
+
+
+
+            <h2>Bug Report</h2>
+
+            <section class="bug_form_cntnt">
+                <label for="Title">Title:*</label><br>
+                <input type="text" id="Title" name="Title"><br>
+                <label for="Description">Description:*</label><br>
+                <textarea id="Description" name="Description" rows="4" cols="50"></textarea><br>
+                <label for="os">Operating System:</label><br>
+                <select name="os" id="od">
+                    <option value="Windows Xp">Windows Xp</option>
+                    <option value="Windows 10">Windows 10</option>
+                    <option value="Ubuntu">Ubuntu</option>
+                    <option value="Mac Os">Mac Os</option>
+                </select>
+                <br>
+
+                <label for="product">Product:*</label><br>
+                <select name="product" id="product">
+                    <option value="Formold">Formold</option>
+                    <option value="product2">product2</option>
+                    <option value="product3">product3</option>
+                </select><br>
+                <br>
+                <label for="Version">Version:*</label><br>
+                <input type="text" id="Version" name="Version"><br><br>
+
+                <label for="Liscense">Liscense:</label><br>
+                <section class="radio">
+                    <label for="free">Free</label>
+                    <input type="radio" id="free" name="rdio" value="free"><br>
+                    <label for="buisness">Business</label>
+                    <input type="radio" id="buisness" name="rdio" value="buisness">
+
+
+                </section>
+                <br>
+
+
+                <label for="Severity">Severity:</label><br>
+                <select name="Severity" id="Severity">
+                    <option value="Critical">Critical</option>
+                    <option value="Safe">Safe</option>
+
+                </select><br>
+
+                <label for="Attachments">Attachments:</label><br>
+                <input type="file" id="Attachments" />
+
+            </section>
+
+            <section class="bttn">
+                <input type="submit" value="Send" id="sbmt_bttn" value="">
+
+            </section>
+
+
+
+        </form>
+    </main>
+
+    <footer class="form_footer">
+
+    </footer>
+</body>
+
+</html>

@@ -1,0 +1,115 @@
+#s1 {
+    background-color: red;
+}
+
+
+#d1 {
+    background-color: yellow;
+}
+
+#visiblity {
+    visibility: hidden;
+}
+
+
+#display {
+    display: none;
+}
+
+
+
+#d2 {
+    float: right;
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    border: 1px solid blue;
+  }
+  
+#cd2 {
+    border: 1px solid red;
+  }
+
+  #d3 {
+    clear: right;
+    width: 100px;
+    height: 50px;
+    margin: 10px;
+    border: 1px solid green;
+  }
+  
+#cd3 {
+    border: 1px solid yellow;
+  }
+
+ #realtive_parent {
+    background-color: magenta;
+    width: 300px;
+    height: 150px;
+
+ }
+
+ #relative_div {
+    background-color: royalblue;
+    width: 100px;
+    height: 60px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+
+ }
+
+
+
+ #absolute_parent {
+    background-color: magenta;
+    width: 300px;
+    height: 150px;
+
+ }
+
+ #absolute_second_parent {
+    background-color: green;
+    width: 250px;
+    height: 100px;
+    margin: 0 auto;
+
+ }
+
+ #absolute_div {
+    background-color: royalblue;
+    width: 100px;
+    height: 60px;
+    position: relative;
+    left: 20px;
+    top: 20px;
+
+ }
+
+
+ #fix_div {
+    background-color: cyan;
+    width: 100px;
+    height: 60px;
+    left: 20px;
+    top: 20px;
+    float: right;
+    position:fixed;
+ }
+
+
+
+ table, th, td {
+    border: 1px solid black;
+   
+  }
+
+
+  #box {
+    background-color: maroon;
+    width: 300px;
+    border: 10px solid black;
+    padding: 50px;
+    margin: 20px;
+    color: white;
+  }
